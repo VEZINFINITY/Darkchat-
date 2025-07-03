@@ -1,0 +1,13 @@
+python-telegram-bot[job-queue]==20.7
+python-dotenv
+google-generativeai
+requests
+Pillow
+numpy
+opencv-python
+speechrecognition
+pyttsx3
+textblob
+matplotlib
+networkx
+wordcloud
